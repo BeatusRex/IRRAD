@@ -1,0 +1,1420 @@
+16:00:04.505 -> Temperature = 20.84 *C
+16:00:04.505 -> Pressure = 882.85 hPa
+16:00:04.505 -> Approx. Altitude = 1147.05 m
+16:00:04.546 -> Humidity = 37.53 %
+16:00:04.546 -> 
+16:10:05.069 -> Temperature = 20.87 *C
+16:10:05.069 -> Pressure = 882.94 hPa
+16:10:05.069 -> Approx. Altitude = 1146.27 m
+16:10:05.109 -> Humidity = 37.99 %
+16:10:05.109 -> 
+16:20:05.606 -> Temperature = 20.82 *C
+16:20:05.606 -> Pressure = 882.65 hPa
+16:20:05.646 -> Approx. Altitude = 1148.90 m
+16:20:05.646 -> Humidity = 38.30 %
+16:20:05.686 -> 
+16:30:06.189 -> Temperature = 20.07 *C
+16:30:06.189 -> Pressure = 882.86 hPa
+16:30:06.189 -> Approx. Altitude = 1146.99 m
+16:30:06.229 -> Humidity = 40.43 %
+16:30:06.229 -> 
+16:40:06.719 -> Temperature = 22.37 *C
+16:40:06.760 -> Pressure = 882.59 hPa
+16:40:06.760 -> Approx. Altitude = 1149.47 m
+16:40:06.760 -> Humidity = 35.03 %
+16:40:06.800 -> 
+16:50:07.300 -> Temperature = 22.89 *C
+16:50:07.300 -> Pressure = 882.72 hPa
+16:50:07.341 -> Approx. Altitude = 1148.32 m
+16:50:07.341 -> Humidity = 33.44 %
+16:50:07.341 -> 
+17:00:07.887 -> Temperature = 22.98 *C
+17:00:07.887 -> Pressure = 882.57 hPa
+17:00:07.887 -> Approx. Altitude = 1149.72 m
+17:00:07.928 -> Humidity = 32.82 %
+17:00:07.928 -> 
+17:10:08.447 -> Temperature = 23.02 *C
+17:10:08.447 -> Pressure = 882.55 hPa
+17:10:08.447 -> Approx. Altitude = 1149.89 m
+17:10:08.487 -> Humidity = 32.44 %
+17:10:08.487 -> 
+17:20:08.990 -> Temperature = 23.04 *C
+17:20:09.030 -> Pressure = 882.59 hPa
+17:20:09.030 -> Approx. Altitude = 1149.53 m
+17:20:09.071 -> Humidity = 32.16 %
+17:20:09.071 -> 
+17:30:09.586 -> Temperature = 23.05 *C
+17:30:09.586 -> Pressure = 882.74 hPa
+17:30:09.586 -> Approx. Altitude = 1148.09 m
+17:30:09.626 -> Humidity = 31.99 %
+17:30:09.626 -> 
+17:40:10.140 -> Temperature = 23.09 *C
+17:40:10.180 -> Pressure = 882.55 hPa
+17:40:10.180 -> Approx. Altitude = 1149.90 m
+17:40:10.180 -> Humidity = 31.78 %
+17:40:10.220 -> 
+17:50:10.720 -> Temperature = 23.40 *C
+17:50:10.720 -> Pressure = 882.50 hPa
+17:50:10.760 -> Approx. Altitude = 1150.37 m
+17:50:10.760 -> Humidity = 31.11 %
+17:50:10.760 -> 
+18:00:11.282 -> Temperature = 23.63 *C
+18:00:11.323 -> Pressure = 882.60 hPa
+18:00:11.323 -> Approx. Altitude = 1149.38 m
+18:00:11.323 -> Humidity = 30.59 %
+18:00:11.363 -> 
+18:10:11.893 -> Temperature = 23.77 *C
+18:10:11.893 -> Pressure = 882.62 hPa
+18:10:11.893 -> Approx. Altitude = 1149.23 m
+18:10:11.933 -> Humidity = 30.23 %
+18:10:11.933 -> 
+18:20:12.443 -> Temperature = 23.88 *C
+18:20:12.484 -> Pressure = 882.89 hPa
+18:20:12.484 -> Approx. Altitude = 1146.69 m
+18:20:12.484 -> Humidity = 29.96 %
+18:20:12.484 -> 
+18:30:13.029 -> Temperature = 23.94 *C
+18:30:13.029 -> Pressure = 883.01 hPa
+18:30:13.069 -> Approx. Altitude = 1145.61 m
+18:30:13.069 -> Humidity = 29.75 %
+18:30:13.069 -> 
+18:40:13.611 -> Temperature = 24.05 *C
+18:40:13.611 -> Pressure = 882.97 hPa
+18:40:13.611 -> Approx. Altitude = 1145.70 m
+18:40:13.651 -> Humidity = 29.55 %
+18:40:13.651 -> 
+18:50:14.174 -> Temperature = 24.10 *C
+18:50:14.215 -> Pressure = 883.02 hPa
+18:50:14.215 -> Approx. Altitude = 1145.46 m
+18:50:14.215 -> Humidity = 29.41 %
+18:50:14.215 -> 
+19:00:14.754 -> Temperature = 24.15 *C
+19:00:14.754 -> Pressure = 882.95 hPa
+19:00:14.795 -> Approx. Altitude = 1146.14 m
+19:00:14.795 -> Humidity = 29.26 %
+19:00:14.795 -> 
+19:10:15.350 -> Temperature = 24.22 *C
+19:10:15.350 -> Pressure = 883.03 hPa
+19:10:15.350 -> Approx. Altitude = 1145.41 m
+19:10:15.390 -> Humidity = 29.10 %
+19:10:15.390 -> 
+19:20:15.937 -> Temperature = 24.29 *C
+19:20:15.937 -> Pressure = 883.18 hPa
+19:20:15.937 -> Approx. Altitude = 1144.01 m
+19:20:15.977 -> Humidity = 28.98 %
+19:20:15.977 -> 
+19:30:16.503 -> Temperature = 24.33 *C
+19:30:16.503 -> Pressure = 883.32 hPa
+19:30:16.503 -> Approx. Altitude = 1142.68 m
+19:30:16.544 -> Humidity = 29.04 %
+19:30:16.544 -> 
+19:40:17.078 -> Temperature = 24.37 *C
+19:40:17.078 -> Pressure = 883.31 hPa
+19:40:17.119 -> Approx. Altitude = 1142.83 m
+19:40:17.119 -> Humidity = 29.00 %
+19:40:17.119 -> 
+19:50:17.677 -> Temperature = 24.43 *C
+19:50:17.677 -> Pressure = 883.21 hPa
+19:50:17.677 -> Approx. Altitude = 1143.76 m
+19:50:17.677 -> Humidity = 28.69 %
+19:50:17.717 -> 
+20:00:18.245 -> Temperature = 24.49 *C
+20:00:18.245 -> Pressure = 883.06 hPa
+20:00:18.245 -> Approx. Altitude = 1145.14 m
+20:00:18.285 -> Humidity = 28.29 %
+20:00:18.285 -> 
+20:10:18.826 -> Temperature = 24.56 *C
+20:10:18.826 -> Pressure = 882.84 hPa
+20:10:18.826 -> Approx. Altitude = 1147.13 m
+20:10:18.866 -> Humidity = 27.87 %
+20:10:18.866 -> 
+20:20:19.397 -> Temperature = 24.65 *C
+20:20:19.397 -> Pressure = 882.79 hPa
+20:20:19.438 -> Approx. Altitude = 1147.64 m
+20:20:19.438 -> Humidity = 27.46 %
+20:20:19.438 -> 
+20:30:19.988 -> Temperature = 24.72 *C
+20:30:19.988 -> Pressure = 882.74 hPa
+20:30:19.988 -> Approx. Altitude = 1148.10 m
+20:30:20.028 -> Humidity = 27.11 %
+20:30:20.028 -> 
+20:40:20.570 -> Temperature = 24.73 *C
+20:40:20.570 -> Pressure = 882.88 hPa
+20:40:20.610 -> Approx. Altitude = 1146.81 m
+20:40:20.610 -> Humidity = 26.81 %
+20:40:20.610 -> 
+20:50:21.138 -> Temperature = 24.76 *C
+20:50:21.179 -> Pressure = 883.47 hPa
+20:50:21.179 -> Approx. Altitude = 1141.33 m
+20:50:21.179 -> Humidity = 26.43 %
+20:50:21.179 -> 
+21:00:21.713 -> Temperature = 24.82 *C
+21:00:21.754 -> Pressure = 883.82 hPa
+21:00:21.754 -> Approx. Altitude = 1138.01 m
+21:00:21.754 -> Humidity = 26.05 %
+21:00:21.794 -> 
+21:10:22.292 -> Temperature = 24.88 *C
+21:10:22.333 -> Pressure = 884.10 hPa
+21:10:22.333 -> Approx. Altitude = 1135.40 m
+21:10:22.333 -> Humidity = 25.72 %
+21:10:22.373 -> 
+21:20:22.906 -> Temperature = 24.91 *C
+21:20:22.906 -> Pressure = 884.34 hPa
+21:20:22.906 -> Approx. Altitude = 1133.25 m
+21:20:22.946 -> Humidity = 25.45 %
+21:20:22.946 -> 
+21:30:23.480 -> Temperature = 24.94 *C
+21:30:23.480 -> Pressure = 884.29 hPa
+21:30:23.520 -> Approx. Altitude = 1133.69 m
+21:30:23.520 -> Humidity = 25.18 %
+21:30:23.520 -> 
+21:40:24.048 -> Temperature = 24.98 *C
+21:40:24.088 -> Pressure = 884.42 hPa
+21:40:24.088 -> Approx. Altitude = 1132.46 m
+21:40:24.088 -> Humidity = 24.93 %
+21:40:24.128 -> 
+21:50:24.653 -> Temperature = 25.00 *C
+21:50:24.653 -> Pressure = 884.58 hPa
+21:50:24.653 -> Approx. Altitude = 1130.95 m
+21:50:24.693 -> Humidity = 24.70 %
+21:50:24.693 -> 
+22:00:25.221 -> Temperature = 25.06 *C
+22:00:25.261 -> Pressure = 884.86 hPa
+22:00:25.261 -> Approx. Altitude = 1128.37 m
+22:00:25.261 -> Humidity = 24.46 %
+22:00:25.261 -> 
+22:10:25.830 -> Temperature = 25.11 *C
+22:10:25.830 -> Pressure = 884.96 hPa
+22:10:25.830 -> Approx. Altitude = 1127.48 m
+22:10:25.870 -> Humidity = 24.20 %
+22:10:25.870 -> 
+22:20:26.386 -> Temperature = 25.12 *C
+22:20:26.426 -> Pressure = 884.97 hPa
+22:20:26.426 -> Approx. Altitude = 1127.32 m
+22:20:26.426 -> Humidity = 23.98 %
+22:20:26.467 -> 
+22:30:26.981 -> Temperature = 25.17 *C
+22:30:26.981 -> Pressure = 885.10 hPa
+22:30:27.021 -> Approx. Altitude = 1126.15 m
+22:30:27.021 -> Humidity = 23.75 %
+22:30:27.021 -> 
+22:40:27.558 -> Temperature = 25.24 *C
+22:40:27.558 -> Pressure = 885.19 hPa
+22:40:27.598 -> Approx. Altitude = 1125.29 m
+22:40:27.598 -> Humidity = 23.53 %
+22:40:27.598 -> 
+22:50:28.152 -> Temperature = 25.23 *C
+22:50:28.152 -> Pressure = 885.38 hPa
+22:50:28.192 -> Approx. Altitude = 1123.57 m
+22:50:28.192 -> Humidity = 23.38 %
+22:50:28.192 -> 
+23:00:28.722 -> Temperature = 25.25 *C
+23:00:28.762 -> Pressure = 885.43 hPa
+23:00:28.762 -> Approx. Altitude = 1123.05 m
+23:00:28.762 -> Humidity = 23.23 %
+23:00:28.803 -> 
+23:10:29.331 -> Temperature = 25.26 *C
+23:10:29.331 -> Pressure = 885.42 hPa
+23:10:29.331 -> Approx. Altitude = 1123.18 m
+23:10:29.372 -> Humidity = 23.08 %
+23:10:29.372 -> 
+23:20:29.926 -> Temperature = 25.29 *C
+23:20:29.926 -> Pressure = 885.39 hPa
+23:20:29.926 -> Approx. Altitude = 1123.58 m
+23:20:29.926 -> Humidity = 22.93 %
+23:20:29.967 -> 
+23:30:30.489 -> Temperature = 25.31 *C
+23:30:30.489 -> Pressure = 885.54 hPa
+23:30:30.530 -> Approx. Altitude = 1122.10 m
+23:30:30.530 -> Humidity = 22.78 %
+23:30:30.530 -> 
+23:40:31.091 -> Temperature = 25.27 *C
+23:40:31.091 -> Pressure = 886.31 hPa
+23:40:31.091 -> Approx. Altitude = 1114.93 m
+23:40:31.132 -> Humidity = 22.76 %
+23:40:31.132 -> 
+23:50:31.665 -> Temperature = 25.16 *C
+23:50:31.665 -> Pressure = 885.99 hPa
+23:50:31.665 -> Approx. Altitude = 1117.88 m
+23:50:31.707 -> Humidity = 22.81 %
+23:50:31.707 -> 
+00:00:32.242 -> Temperature = 25.00 *C
+00:00:32.242 -> Pressure = 886.15 hPa
+00:00:32.283 -> Approx. Altitude = 1116.35 m
+00:00:32.283 -> Humidity = 22.96 %
+00:00:32.283 -> 
+00:10:32.836 -> Temperature = 24.89 *C
+00:10:32.836 -> Pressure = 886.19 hPa
+00:10:32.836 -> Approx. Altitude = 1116.04 m
+00:10:32.877 -> Humidity = 23.02 %
+00:10:32.877 -> 
+00:20:33.408 -> Temperature = 24.76 *C
+00:20:33.408 -> Pressure = 886.17 hPa
+00:20:33.449 -> Approx. Altitude = 1116.23 m
+00:20:33.449 -> Humidity = 23.06 %
+00:20:33.449 -> 
+00:30:34.018 -> Temperature = 24.70 *C
+00:30:34.018 -> Pressure = 886.18 hPa
+00:30:34.018 -> Approx. Altitude = 1116.09 m
+00:30:34.058 -> Humidity = 22.93 %
+00:30:34.058 -> 
+00:40:34.568 -> Temperature = 24.61 *C
+00:40:34.609 -> Pressure = 886.40 hPa
+00:40:34.609 -> Approx. Altitude = 1114.12 m
+00:40:34.609 -> Humidity = 22.90 %
+00:40:34.609 -> 
+00:50:35.154 -> Temperature = 24.53 *C
+00:50:35.154 -> Pressure = 886.42 hPa
+00:50:35.195 -> Approx. Altitude = 1113.90 m
+00:50:35.195 -> Humidity = 22.89 %
+00:50:35.195 -> 
+01:00:35.749 -> Temperature = 24.41 *C
+01:00:35.749 -> Pressure = 886.47 hPa
+01:00:35.749 -> Approx. Altitude = 1113.41 m
+01:00:35.789 -> Humidity = 23.00 %
+01:00:35.789 -> 
+01:10:36.323 -> Temperature = 24.35 *C
+01:10:36.323 -> Pressure = 886.55 hPa
+01:10:36.363 -> Approx. Altitude = 1112.70 m
+01:10:36.363 -> Humidity = 23.07 %
+01:10:36.363 -> 
+01:20:36.898 -> Temperature = 24.25 *C
+01:20:36.898 -> Pressure = 886.59 hPa
+01:20:36.938 -> Approx. Altitude = 1112.27 m
+01:20:36.938 -> Humidity = 23.19 %
+01:20:36.938 -> 
+01:30:37.471 -> Temperature = 24.16 *C
+01:30:37.512 -> Pressure = 886.61 hPa
+01:30:37.512 -> Approx. Altitude = 1112.12 m
+01:30:37.512 -> Humidity = 23.33 %
+01:30:37.552 -> 
+01:40:38.068 -> Temperature = 24.06 *C
+01:40:38.068 -> Pressure = 886.62 hPa
+01:40:38.108 -> Approx. Altitude = 1112.06 m
+01:40:38.108 -> Humidity = 23.54 %
+01:40:38.108 -> 
+01:50:38.656 -> Temperature = 23.99 *C
+01:50:38.656 -> Pressure = 886.33 hPa
+01:50:38.656 -> Approx. Altitude = 1114.74 m
+01:50:38.696 -> Humidity = 23.72 %
+01:50:38.696 -> 
+02:00:39.241 -> Temperature = 23.93 *C
+02:00:39.241 -> Pressure = 886.30 hPa
+02:00:39.241 -> Approx. Altitude = 1115.02 m
+02:00:39.281 -> Humidity = 23.89 %
+02:00:39.281 -> 
+02:10:39.795 -> Temperature = 23.86 *C
+02:10:39.835 -> Pressure = 886.40 hPa
+02:10:39.835 -> Approx. Altitude = 1114.07 m
+02:10:39.835 -> Humidity = 24.03 %
+02:10:39.835 -> 
+02:20:40.389 -> Temperature = 23.80 *C
+02:20:40.389 -> Pressure = 886.35 hPa
+02:20:40.389 -> Approx. Altitude = 1114.51 m
+02:20:40.429 -> Humidity = 24.12 %
+02:20:40.429 -> 
+02:30:40.951 -> Temperature = 23.76 *C
+02:30:40.951 -> Pressure = 886.33 hPa
+02:30:40.992 -> Approx. Altitude = 1114.75 m
+02:30:40.992 -> Humidity = 24.21 %
+02:30:40.992 -> 
+02:40:41.530 -> Temperature = 23.68 *C
+02:40:41.571 -> Pressure = 886.19 hPa
+02:40:41.571 -> Approx. Altitude = 1116.00 m
+02:40:41.571 -> Humidity = 24.32 %
+02:40:41.571 -> 
+02:50:42.127 -> Temperature = 23.63 *C
+02:50:42.127 -> Pressure = 886.15 hPa
+02:50:42.127 -> Approx. Altitude = 1116.37 m
+02:50:42.167 -> Humidity = 24.40 %
+02:50:42.167 -> 
+03:00:42.702 -> Temperature = 23.58 *C
+03:00:42.702 -> Pressure = 885.89 hPa
+03:00:42.702 -> Approx. Altitude = 1118.81 m
+03:00:42.742 -> Humidity = 24.47 %
+03:00:42.742 -> 
+03:10:43.265 -> Temperature = 23.52 *C
+03:10:43.265 -> Pressure = 886.05 hPa
+03:10:43.306 -> Approx. Altitude = 1117.34 m
+03:10:43.306 -> Humidity = 24.56 %
+03:10:43.306 -> 
+03:20:43.843 -> Temperature = 23.45 *C
+03:20:43.843 -> Pressure = 886.14 hPa
+03:20:43.884 -> Approx. Altitude = 1116.48 m
+03:20:43.884 -> Humidity = 24.63 %
+03:20:43.884 -> 
+03:30:44.431 -> Temperature = 23.38 *C
+03:30:44.431 -> Pressure = 886.31 hPa
+03:30:44.431 -> Approx. Altitude = 1114.96 m
+03:30:44.472 -> Humidity = 24.71 %
+03:30:44.472 -> 
+03:40:44.983 -> Temperature = 23.31 *C
+03:40:45.024 -> Pressure = 886.29 hPa
+03:40:45.024 -> Approx. Altitude = 1115.12 m
+03:40:45.024 -> Humidity = 24.74 %
+03:40:45.064 -> 
+03:50:45.588 -> Temperature = 23.23 *C
+03:50:45.588 -> Pressure = 886.52 hPa
+03:50:45.588 -> Approx. Altitude = 1112.95 m
+03:50:45.629 -> Humidity = 24.78 %
+03:50:45.629 -> 
+04:00:46.145 -> Temperature = 23.17 *C
+04:00:46.145 -> Pressure = 886.57 hPa
+04:00:46.186 -> Approx. Altitude = 1112.48 m
+04:00:46.186 -> Humidity = 24.84 %
+04:00:46.186 -> 
+04:10:46.730 -> Temperature = 23.14 *C
+04:10:46.730 -> Pressure = 886.76 hPa
+04:10:46.730 -> Approx. Altitude = 1110.74 m
+04:10:46.771 -> Humidity = 24.84 %
+04:10:46.771 -> 
+04:20:47.306 -> Temperature = 23.07 *C
+04:20:47.306 -> Pressure = 886.62 hPa
+04:20:47.306 -> Approx. Altitude = 1112.05 m
+04:20:47.347 -> Humidity = 24.91 %
+04:20:47.347 -> 
+04:30:47.860 -> Temperature = 23.01 *C
+04:30:47.900 -> Pressure = 886.48 hPa
+04:30:47.900 -> Approx. Altitude = 1113.32 m
+04:30:47.900 -> Humidity = 24.97 %
+04:30:47.941 -> 
+04:40:48.460 -> Temperature = 22.97 *C
+04:40:48.460 -> Pressure = 886.54 hPa
+04:40:48.460 -> Approx. Altitude = 1112.80 m
+04:40:48.501 -> Humidity = 25.01 %
+04:40:48.501 -> 
+04:50:49.007 -> Temperature = 22.91 *C
+04:50:49.047 -> Pressure = 886.49 hPa
+04:50:49.047 -> Approx. Altitude = 1113.27 m
+04:50:49.047 -> Humidity = 25.09 %
+04:50:49.088 -> 
+05:00:49.576 -> Temperature = 22.87 *C
+05:00:49.616 -> Pressure = 886.32 hPa
+05:00:49.616 -> Approx. Altitude = 1114.82 m
+05:00:49.616 -> Humidity = 25.16 %
+05:00:49.657 -> 
+05:10:50.162 -> Temperature = 22.86 *C
+05:10:50.162 -> Pressure = 886.35 hPa
+05:10:50.202 -> Approx. Altitude = 1114.57 m
+05:10:50.202 -> Humidity = 25.17 %
+05:10:50.202 -> 
+05:20:50.729 -> Temperature = 22.80 *C
+05:20:50.769 -> Pressure = 886.32 hPa
+05:20:50.769 -> Approx. Altitude = 1114.82 m
+05:20:50.769 -> Humidity = 25.24 %
+05:20:50.769 -> 
+05:30:51.302 -> Temperature = 22.77 *C
+05:30:51.342 -> Pressure = 886.13 hPa
+05:30:51.342 -> Approx. Altitude = 1116.61 m
+05:30:51.342 -> Humidity = 25.29 %
+05:30:51.342 -> 
+05:40:51.891 -> Temperature = 22.71 *C
+05:40:51.891 -> Pressure = 886.16 hPa
+05:40:51.891 -> Approx. Altitude = 1116.26 m
+05:40:51.931 -> Humidity = 25.37 %
+05:40:51.931 -> 
+05:50:52.443 -> Temperature = 22.66 *C
+05:50:52.484 -> Pressure = 886.13 hPa
+05:50:52.484 -> Approx. Altitude = 1116.57 m
+05:50:52.484 -> Humidity = 25.44 %
+05:50:52.524 -> 
+06:00:53.027 -> Temperature = 22.61 *C
+06:00:53.027 -> Pressure = 886.08 hPa
+06:00:53.068 -> Approx. Altitude = 1117.01 m
+06:00:53.068 -> Humidity = 25.54 %
+06:00:53.068 -> 
+06:10:53.599 -> Temperature = 22.59 *C
+06:10:53.599 -> Pressure = 886.08 hPa
+06:10:53.640 -> Approx. Altitude = 1117.02 m
+06:10:53.640 -> Humidity = 25.59 %
+06:10:53.640 -> 
+06:20:54.179 -> Temperature = 22.58 *C
+06:20:54.179 -> Pressure = 886.12 hPa
+06:20:54.179 -> Approx. Altitude = 1116.64 m
+06:20:54.220 -> Humidity = 25.62 %
+06:20:54.220 -> 
+06:30:54.724 -> Temperature = 22.57 *C
+06:30:54.764 -> Pressure = 886.19 hPa
+06:30:54.764 -> Approx. Altitude = 1116.01 m
+06:30:54.764 -> Humidity = 25.65 %
+06:30:54.805 -> 
+06:40:55.321 -> Temperature = 22.55 *C
+06:40:55.321 -> Pressure = 886.06 hPa
+06:40:55.321 -> Approx. Altitude = 1117.26 m
+06:40:55.362 -> Humidity = 25.74 %
+06:40:55.362 -> 
+06:50:55.870 -> Temperature = 22.50 *C
+06:50:55.910 -> Pressure = 885.84 hPa
+06:50:55.910 -> Approx. Altitude = 1119.26 m
+06:50:55.910 -> Humidity = 25.84 %
+06:50:55.951 -> 
+07:00:56.440 -> Temperature = 22.47 *C
+07:00:56.480 -> Pressure = 885.81 hPa
+07:00:56.480 -> Approx. Altitude = 1119.59 m
+07:00:56.480 -> Humidity = 25.85 %
+07:00:56.521 -> 
+07:10:57.038 -> Temperature = 22.45 *C
+07:10:57.038 -> Pressure = 885.87 hPa
+07:10:57.038 -> Approx. Altitude = 1119.00 m
+07:10:57.078 -> Humidity = 25.82 %
+07:10:57.078 -> 
+07:20:57.593 -> Temperature = 22.44 *C
+07:20:57.593 -> Pressure = 885.49 hPa
+07:20:57.633 -> Approx. Altitude = 1122.53 m
+07:20:57.633 -> Humidity = 25.68 %
+07:20:57.633 -> 
+07:30:58.162 -> Temperature = 22.49 *C
+07:30:58.162 -> Pressure = 885.40 hPa
+07:30:58.202 -> Approx. Altitude = 1123.40 m
+07:30:58.202 -> Humidity = 25.48 %
+07:30:58.202 -> 
+07:40:58.748 -> Temperature = 22.92 *C
+07:40:58.748 -> Pressure = 885.03 hPa
+07:40:58.748 -> Approx. Altitude = 1126.76 m
+07:40:58.788 -> Humidity = 24.68 %
+07:40:58.788 -> 
+07:50:59.294 -> Temperature = 23.48 *C
+07:50:59.294 -> Pressure = 885.20 hPa
+07:50:59.335 -> Approx. Altitude = 1125.23 m
+07:50:59.335 -> Humidity = 23.72 %
+07:50:59.335 -> 
+08:00:59.876 -> Temperature = 24.18 *C
+08:00:59.876 -> Pressure = 885.37 hPa
+08:00:59.917 -> Approx. Altitude = 1123.68 m
+08:00:59.917 -> Humidity = 22.69 %
+08:00:59.917 -> 
+08:11:00.430 -> Temperature = 24.82 *C
+08:11:00.471 -> Pressure = 885.19 hPa
+08:11:00.471 -> Approx. Altitude = 1125.27 m
+08:11:00.471 -> Humidity = 21.79 %
+08:11:00.511 -> 
+08:21:01.041 -> Temperature = 25.33 *C
+08:21:01.041 -> Pressure = 885.19 hPa
+08:21:01.041 -> Approx. Altitude = 1125.29 m
+08:21:01.082 -> Humidity = 21.08 %
+08:21:01.082 -> 
+08:31:01.611 -> Temperature = 25.59 *C
+08:31:01.611 -> Pressure = 885.26 hPa
+08:31:01.652 -> Approx. Altitude = 1124.62 m
+08:31:01.652 -> Humidity = 20.77 %
+08:31:01.652 -> 
+08:41:02.201 -> Temperature = 25.58 *C
+08:41:02.201 -> Pressure = 885.03 hPa
+08:41:02.201 -> Approx. Altitude = 1126.82 m
+08:41:02.242 -> Humidity = 20.78 %
+08:41:02.242 -> 
+08:51:02.772 -> Temperature = 25.57 *C
+08:51:02.772 -> Pressure = 885.04 hPa
+08:51:02.772 -> Approx. Altitude = 1126.67 m
+08:51:02.813 -> Humidity = 20.80 %
+08:51:02.813 -> 
+09:01:03.372 -> Temperature = 25.61 *C
+09:01:03.372 -> Pressure = 885.20 hPa
+09:01:03.372 -> Approx. Altitude = 1125.79 m
+09:01:03.412 -> Humidity = 20.76 %
+09:01:03.412 -> 
+09:11:03.977 -> Temperature = 25.63 *C
+09:11:03.977 -> Pressure = 885.27 hPa
+09:11:03.977 -> Approx. Altitude = 1124.60 m
+09:11:04.017 -> Humidity = 20.81 %
+09:11:04.017 -> 
+09:21:04.550 -> Temperature = 25.55 *C
+09:21:04.590 -> Pressure = 885.13 hPa
+09:21:04.590 -> Approx. Altitude = 1125.91 m
+09:21:04.590 -> Humidity = 21.01 %
+09:21:04.590 -> 
+09:31:05.160 -> Temperature = 25.46 *C
+09:31:05.160 -> Pressure = 884.89 hPa
+09:31:05.200 -> Approx. Altitude = 1128.11 m
+09:31:05.200 -> Humidity = 21.22 %
+09:31:05.200 -> 
+09:41:05.755 -> Temperature = 25.35 *C
+09:41:05.755 -> Pressure = 884.78 hPa
+09:41:05.796 -> Approx. Altitude = 1129.09 m
+09:41:05.796 -> Humidity = 21.57 %
+09:41:05.796 -> 
+09:51:06.339 -> Temperature = 25.19 *C
+09:51:06.380 -> Pressure = 884.60 hPa
+09:51:06.380 -> Approx. Altitude = 1130.78 m
+09:51:06.380 -> Humidity = 21.96 %
+09:51:06.420 -> 
+10:01:06.946 -> Temperature = 25.22 *C
+10:01:06.986 -> Pressure = 884.68 hPa
+10:01:06.986 -> Approx. Altitude = 1130.06 m
+10:01:06.986 -> Humidity = 22.24 %
+10:01:06.986 -> 
+10:11:07.539 -> Temperature = 25.56 *C
+10:11:07.579 -> Pressure = 884.64 hPa
+10:11:07.579 -> Approx. Altitude = 1130.38 m
+10:11:07.579 -> Humidity = 21.99 %
+10:11:07.620 -> 
+10:21:08.154 -> Temperature = 25.74 *C
+10:21:08.154 -> Pressure = 884.65 hPa
+10:21:08.194 -> Approx. Altitude = 1130.35 m
+10:21:08.194 -> Humidity = 21.98 %
+10:21:08.194 -> 
+10:31:08.735 -> Temperature = 25.80 *C
+10:31:08.775 -> Pressure = 884.55 hPa
+10:31:08.775 -> Approx. Altitude = 1131.26 m
+10:31:08.775 -> Humidity = 22.09 %
+10:31:08.816 -> 
+10:41:09.340 -> Temperature = 25.86 *C
+10:41:09.381 -> Pressure = 884.44 hPa
+10:41:09.381 -> Approx. Altitude = 1132.26 m
+10:41:09.381 -> Humidity = 22.21 %
+10:41:09.421 -> 
+10:51:09.948 -> Temperature = 25.87 *C
+10:51:09.988 -> Pressure = 884.14 hPa
+10:51:09.988 -> Approx. Altitude = 1135.07 m
+10:51:09.988 -> Humidity = 22.31 %
+10:51:09.988 -> 
+11:01:10.579 -> Temperature = 25.93 *C
+11:01:10.579 -> Pressure = 884.16 hPa
+11:01:10.579 -> Approx. Altitude = 1134.92 m
+11:01:10.579 -> Humidity = 22.40 %
+11:01:10.619 -> 
+11:11:11.158 -> Temperature = 25.96 *C
+11:11:11.158 -> Pressure = 883.90 hPa
+11:11:11.198 -> Approx. Altitude = 1137.31 m
+11:11:11.198 -> Humidity = 22.43 %
+11:11:11.198 -> 
+11:21:11.751 -> Temperature = 25.61 *C
+11:21:11.792 -> Pressure = 883.51 hPa
+11:21:11.792 -> Approx. Altitude = 1140.92 m
+11:21:11.792 -> Humidity = 22.99 %
+11:21:11.832 -> 
+11:31:12.359 -> Temperature = 25.41 *C
+11:31:12.359 -> Pressure = 883.33 hPa
+11:31:12.400 -> Approx. Altitude = 1142.56 m
+11:31:12.400 -> Humidity = 23.28 %
+11:31:12.400 -> 
+11:41:12.965 -> Temperature = 25.33 *C
+11:41:12.965 -> Pressure = 883.12 hPa
+11:41:13.005 -> Approx. Altitude = 1144.51 m
+11:41:13.005 -> Humidity = 23.41 %
+11:41:13.005 -> 
+11:51:13.576 -> Temperature = 25.35 *C
+11:51:13.576 -> Pressure = 883.07 hPa
+11:51:13.576 -> Approx. Altitude = 1144.99 m
+11:51:13.616 -> Humidity = 23.37 %
+11:51:13.616 -> 
+12:01:14.176 -> Temperature = 25.33 *C
+12:01:14.176 -> Pressure = 883.19 hPa
+12:01:14.176 -> Approx. Altitude = 1143.87 m
+12:01:14.217 -> Humidity = 23.35 %
+12:01:14.217 -> 
+12:11:14.781 -> Temperature = 25.33 *C
+12:11:14.781 -> Pressure = 883.07 hPa
+12:11:14.781 -> Approx. Altitude = 1145.06 m
+12:11:14.821 -> Humidity = 23.34 %
+12:11:14.821 -> 
+12:21:15.382 -> Temperature = 25.29 *C
+12:21:15.382 -> Pressure = 882.73 hPa
+12:21:15.382 -> Approx. Altitude = 1148.18 m
+12:21:15.382 -> Humidity = 23.36 %
+12:21:15.422 -> 
+12:31:15.961 -> Temperature = 25.33 *C
+12:31:15.961 -> Pressure = 882.28 hPa
+12:31:16.001 -> Approx. Altitude = 1152.39 m
+12:31:16.001 -> Humidity = 23.35 %
+12:31:16.001 -> 
+12:41:16.579 -> Temperature = 25.33 *C
+12:41:16.579 -> Pressure = 882.07 hPa
+12:41:16.579 -> Approx. Altitude = 1154.35 m
+12:41:16.579 -> Humidity = 23.42 %
+12:41:16.620 -> 
+12:51:17.178 -> Temperature = 25.25 *C
+12:51:17.178 -> Pressure = 881.81 hPa
+12:51:17.178 -> Approx. Altitude = 1156.78 m
+12:51:17.219 -> Humidity = 23.50 %
+12:51:17.219 -> 
+13:01:17.770 -> Temperature = 25.31 *C
+13:01:17.770 -> Pressure = 881.59 hPa
+13:01:17.770 -> Approx. Altitude = 1158.84 m
+13:01:17.811 -> Humidity = 23.45 %
+13:01:17.811 -> 
+13:11:18.372 -> Temperature = 25.32 *C
+13:11:18.372 -> Pressure = 881.26 hPa
+13:11:18.372 -> Approx. Altitude = 1161.88 m
+13:11:18.412 -> Humidity = 23.48 %
+13:11:18.412 -> 
+13:21:18.949 -> Temperature = 25.25 *C
+13:21:18.989 -> Pressure = 881.42 hPa
+13:21:18.989 -> Approx. Altitude = 1160.40 m
+13:21:18.989 -> Humidity = 23.63 %
+13:21:19.029 -> 
+13:31:19.578 -> Temperature = 25.25 *C
+13:31:19.578 -> Pressure = 880.93 hPa
+13:31:19.578 -> Approx. Altitude = 1164.92 m
+13:31:19.578 -> Humidity = 23.59 %
+13:31:19.619 -> 
+13:41:20.165 -> Temperature = 25.22 *C
+13:41:20.165 -> Pressure = 881.06 hPa
+13:41:20.165 -> Approx. Altitude = 1163.74 m
+13:41:20.206 -> Humidity = 23.60 %
+13:41:20.206 -> 
+13:51:20.755 -> Temperature = 25.31 *C
+13:51:20.755 -> Pressure = 881.06 hPa
+13:51:20.796 -> Approx. Altitude = 1163.74 m
+13:51:20.796 -> Humidity = 23.52 %
+13:51:20.796 -> 
+14:01:21.370 -> Temperature = 25.30 *C
+14:01:21.370 -> Pressure = 881.49 hPa
+14:01:21.370 -> Approx. Altitude = 1159.71 m
+14:01:21.410 -> Humidity = 23.66 %
+14:01:21.410 -> 
+14:11:21.953 -> Temperature = 25.35 *C
+14:11:21.953 -> Pressure = 880.92 hPa
+14:11:21.993 -> Approx. Altitude = 1164.41 m
+14:11:21.993 -> Humidity = 23.70 %
+14:11:21.993 -> 
+14:21:22.566 -> Temperature = 25.34 *C
+14:21:22.566 -> Pressure = 880.70 hPa
+14:21:22.566 -> Approx. Altitude = 1167.07 m
+14:21:22.606 -> Humidity = 23.95 %
+14:21:22.606 -> 
+14:31:23.151 -> Temperature = 25.38 *C
+14:31:23.151 -> Pressure = 880.59 hPa
+14:31:23.191 -> Approx. Altitude = 1168.15 m
+14:31:23.191 -> Humidity = 24.15 %
+14:31:23.191 -> 
+14:41:23.755 -> Temperature = 25.39 *C
+14:41:23.755 -> Pressure = 880.42 hPa
+14:41:23.796 -> Approx. Altitude = 1169.75 m
+14:41:23.796 -> Humidity = 24.28 %
+14:41:23.796 -> 
+14:51:24.374 -> Temperature = 25.43 *C
+14:51:24.374 -> Pressure = 880.44 hPa
+14:51:24.374 -> Approx. Altitude = 1169.49 m
+14:51:24.414 -> Humidity = 24.64 %
+14:51:24.414 -> 
+15:01:24.936 -> Temperature = 25.58 *C
+15:01:24.977 -> Pressure = 880.29 hPa
+15:01:24.977 -> Approx. Altitude = 1170.89 m
+15:01:24.977 -> Humidity = 25.93 %
+15:01:25.017 -> 
+15:11:25.568 -> Temperature = 25.53 *C
+15:11:25.568 -> Pressure = 880.21 hPa
+15:11:25.568 -> Approx. Altitude = 1171.64 m
+15:11:25.608 -> Humidity = 25.80 %
+15:11:25.608 -> 
+15:21:26.153 -> Temperature = 25.50 *C
+15:21:26.153 -> Pressure = 880.15 hPa
+15:21:26.193 -> Approx. Altitude = 1172.22 m
+15:21:26.193 -> Humidity = 25.72 %
+15:21:26.193 -> 
+15:31:26.749 -> Temperature = 25.77 *C
+15:31:26.749 -> Pressure = 880.07 hPa
+15:31:26.790 -> Approx. Altitude = 1173.01 m
+15:31:26.790 -> Humidity = 25.19 %
+15:31:26.790 -> 
+15:41:27.359 -> Temperature = 25.75 *C
+15:41:27.359 -> Pressure = 879.68 hPa
+15:41:27.399 -> Approx. Altitude = 1176.65 m
+15:41:27.399 -> Humidity = 25.11 %
+15:41:27.399 -> 
+15:51:27.956 -> Temperature = 25.75 *C
+15:51:27.956 -> Pressure = 879.46 hPa
+15:51:27.996 -> Approx. Altitude = 1178.25 m
+15:51:27.996 -> Humidity = 25.01 %
+15:51:27.996 -> 
+16:01:28.543 -> Temperature = 25.74 *C
+16:01:28.583 -> Pressure = 879.41 hPa
+16:01:28.583 -> Approx. Altitude = 1179.13 m
+16:01:28.624 -> Humidity = 24.93 %
+16:01:28.624 -> 
+16:11:29.182 -> Temperature = 25.65 *C
+16:11:29.182 -> Pressure = 879.65 hPa
+16:11:29.182 -> Approx. Altitude = 1176.90 m
+16:11:29.223 -> Humidity = 24.98 %
+16:11:29.223 -> 
+16:21:29.763 -> Temperature = 25.58 *C
+16:21:29.763 -> Pressure = 879.75 hPa
+16:21:29.804 -> Approx. Altitude = 1175.99 m
+16:21:29.804 -> Humidity = 24.82 %
+16:21:29.804 -> 
+16:31:30.345 -> Temperature = 25.31 *C
+16:31:30.386 -> Pressure = 879.36 hPa
+16:31:30.386 -> Approx. Altitude = 1179.57 m
+16:31:30.386 -> Humidity = 24.84 %
+16:31:30.426 -> 
+16:41:30.962 -> Temperature = 25.26 *C
+16:41:30.962 -> Pressure = 879.60 hPa
+16:41:31.002 -> Approx. Altitude = 1177.34 m
+16:41:31.002 -> Humidity = 24.66 %
+16:41:31.002 -> 
+16:51:31.567 -> Temperature = 25.24 *C
+16:51:31.567 -> Pressure = 879.79 hPa
+16:51:31.607 -> Approx. Altitude = 1175.58 m
+16:51:31.607 -> Humidity = 24.44 %
+16:51:31.607 -> 
+17:01:32.158 -> Temperature = 25.11 *C
+17:01:32.158 -> Pressure = 879.69 hPa
+17:01:32.199 -> Approx. Altitude = 1176.55 m
+17:01:32.199 -> Humidity = 24.26 %
+17:01:32.199 -> 
+17:11:32.754 -> Temperature = 25.12 *C
+17:11:32.795 -> Pressure = 879.64 hPa
+17:11:32.795 -> Approx. Altitude = 1176.97 m
+17:11:32.795 -> Humidity = 23.96 %
+17:11:32.835 -> 
+17:21:33.376 -> Temperature = 25.25 *C
+17:21:33.376 -> Pressure = 879.92 hPa
+17:21:33.376 -> Approx. Altitude = 1174.39 m
+17:21:33.416 -> Humidity = 23.62 %
+17:21:33.416 -> 
+17:31:33.978 -> Temperature = 25.13 *C
+17:31:33.978 -> Pressure = 879.98 hPa
+17:31:33.978 -> Approx. Altitude = 1173.79 m
+17:31:34.018 -> Humidity = 23.54 %
+17:31:34.018 -> 
+17:41:34.567 -> Temperature = 25.19 *C
+17:41:34.567 -> Pressure = 879.93 hPa
+17:41:34.607 -> Approx. Altitude = 1174.28 m
+17:41:34.607 -> Humidity = 23.32 %
+17:41:34.607 -> 
+17:51:35.172 -> Temperature = 25.20 *C
+17:51:35.172 -> Pressure = 879.84 hPa
+17:51:35.172 -> Approx. Altitude = 1175.08 m
+17:51:35.213 -> Humidity = 23.20 %
+17:51:35.213 -> 
+18:01:35.755 -> Temperature = 25.26 *C
+18:01:35.796 -> Pressure = 879.77 hPa
+18:01:35.796 -> Approx. Altitude = 1175.80 m
+18:01:35.796 -> Humidity = 23.01 %
+18:01:35.796 -> 
+18:11:36.369 -> Temperature = 25.62 *C
+18:11:36.369 -> Pressure = 880.19 hPa
+18:11:36.409 -> Approx. Altitude = 1171.84 m
+18:11:36.409 -> Humidity = 23.45 %
+18:11:36.409 -> 
+18:21:36.953 -> Temperature = 24.31 *C
+18:21:36.993 -> Pressure = 879.96 hPa
+18:21:36.993 -> Approx. Altitude = 1173.96 m
+18:21:36.993 -> Humidity = 25.14 %
+18:21:37.033 -> 
+18:31:37.572 -> Temperature = 23.96 *C
+18:31:37.572 -> Pressure = 879.57 hPa
+18:31:37.572 -> Approx. Altitude = 1177.64 m
+18:31:37.612 -> Humidity = 25.53 %
+18:31:37.612 -> 
+18:41:38.163 -> Temperature = 24.70 *C
+18:41:38.163 -> Pressure = 878.81 hPa
+18:41:38.163 -> Approx. Altitude = 1184.74 m
+18:41:38.204 -> Humidity = 24.48 %
+18:41:38.204 -> 
+18:51:38.764 -> Temperature = 27.31 *C
+18:51:38.764 -> Pressure = 879.45 hPa
+18:51:38.764 -> Approx. Altitude = 1178.81 m
+18:51:38.805 -> Humidity = 20.82 %
+18:51:38.805 -> 
+19:01:39.376 -> Temperature = 27.85 *C
+19:01:39.376 -> Pressure = 879.52 hPa
+19:01:39.376 -> Approx. Altitude = 1178.13 m
+19:01:39.416 -> Humidity = 20.04 %
+19:01:39.416 -> 
+19:11:39.974 -> Temperature = 26.63 *C
+19:11:39.974 -> Pressure = 879.55 hPa
+19:11:40.014 -> Approx. Altitude = 1177.85 m
+19:11:40.014 -> Humidity = 21.47 %
+19:11:40.014 -> 
+19:21:40.559 -> Temperature = 24.84 *C
+19:21:40.599 -> Pressure = 879.43 hPa
+19:21:40.599 -> Approx. Altitude = 1178.98 m
+19:21:40.599 -> Humidity = 23.85 %
+19:21:40.640 -> 
+19:31:41.186 -> Temperature = 24.34 *C
+19:31:41.186 -> Pressure = 879.51 hPa
+19:31:41.186 -> Approx. Altitude = 1178.25 m
+19:31:41.227 -> Humidity = 24.47 %
+19:31:41.227 -> 
+19:41:41.763 -> Temperature = 24.09 *C
+19:41:41.804 -> Pressure = 879.66 hPa
+19:41:41.804 -> Approx. Altitude = 1176.76 m
+19:41:41.804 -> Humidity = 24.71 %
+19:41:41.844 -> 
+19:51:42.373 -> Temperature = 23.93 *C
+19:51:42.373 -> Pressure = 879.86 hPa
+19:51:42.413 -> Approx. Altitude = 1174.93 m
+19:51:42.413 -> Humidity = 24.82 %
+19:51:42.413 -> 
+20:01:42.949 -> Temperature = 23.81 *C
+20:01:42.989 -> Pressure = 880.10 hPa
+20:01:42.989 -> Approx. Altitude = 1172.98 m
+20:01:42.989 -> Humidity = 24.89 %
+20:01:43.029 -> 
+20:11:43.576 -> Temperature = 26.06 *C
+20:11:43.576 -> Pressure = 880.27 hPa
+20:11:43.576 -> Approx. Altitude = 1171.12 m
+20:11:43.617 -> Humidity = 21.62 %
+20:11:43.617 -> 
+20:21:44.173 -> Temperature = 27.53 *C
+20:21:44.173 -> Pressure = 880.42 hPa
+20:21:44.173 -> Approx. Altitude = 1169.67 m
+20:21:44.214 -> Humidity = 19.43 %
+20:21:44.214 -> 
+20:31:44.783 -> Temperature = 28.05 *C
+20:31:44.783 -> Pressure = 880.35 hPa
+20:31:44.783 -> Approx. Altitude = 1170.35 m
+20:31:44.823 -> Humidity = 18.61 %
+20:31:44.823 -> 
+20:41:45.391 -> Temperature = 25.51 *C
+20:41:45.391 -> Pressure = 880.29 hPa
+20:41:45.391 -> Approx. Altitude = 1170.94 m
+20:41:45.431 -> Humidity = 21.47 %
+20:41:45.431 -> 
+20:51:45.969 -> Temperature = 24.33 *C
+20:51:46.009 -> Pressure = 880.29 hPa
+20:51:46.009 -> Approx. Altitude = 1170.94 m
+20:51:46.009 -> Humidity = 22.78 %
+20:51:46.050 -> 
+21:01:46.566 -> Temperature = 23.94 *C
+21:01:46.606 -> Pressure = 880.35 hPa
+21:01:46.606 -> Approx. Altitude = 1170.41 m
+21:01:46.606 -> Humidity = 23.09 %
+21:01:46.647 -> 
+21:11:47.186 -> Temperature = 23.75 *C
+21:11:47.186 -> Pressure = 880.44 hPa
+21:11:47.186 -> Approx. Altitude = 1169.48 m
+21:11:47.226 -> Humidity = 23.15 %
+21:11:47.226 -> 
+21:21:47.771 -> Temperature = 24.35 *C
+21:21:47.771 -> Pressure = 880.35 hPa
+21:21:47.811 -> Approx. Altitude = 1170.30 m
+21:21:47.811 -> Humidity = 22.14 %
+21:21:47.811 -> 
+21:31:48.379 -> Temperature = 27.54 *C
+21:31:48.379 -> Pressure = 880.29 hPa
+21:31:48.379 -> Approx. Altitude = 1170.92 m
+21:31:48.419 -> Humidity = 17.95 %
+21:31:48.419 -> 
+21:41:48.987 -> Temperature = 28.33 *C
+21:41:48.987 -> Pressure = 880.37 hPa
+21:41:48.987 -> Approx. Altitude = 1170.16 m
+21:41:49.027 -> Humidity = 16.83 %
+21:41:49.027 -> 
+21:51:49.588 -> Temperature = 25.77 *C
+21:51:49.588 -> Pressure = 880.21 hPa
+21:51:49.629 -> Approx. Altitude = 1171.69 m
+21:51:49.629 -> Humidity = 19.43 %
+21:51:49.629 -> 
+22:01:50.188 -> Temperature = 24.44 *C
+22:01:50.188 -> Pressure = 879.95 hPa
+22:01:50.188 -> Approx. Altitude = 1174.14 m
+22:01:50.229 -> Humidity = 20.93 %
+22:01:50.229 -> 
+22:11:50.772 -> Temperature = 23.92 *C
+22:11:50.772 -> Pressure = 879.95 hPa
+22:11:50.812 -> Approx. Altitude = 1174.13 m
+22:11:50.812 -> Humidity = 21.33 %
+22:11:50.852 -> 
+22:21:51.363 -> Temperature = 23.70 *C
+22:21:51.403 -> Pressure = 880.01 hPa
+22:21:51.403 -> Approx. Altitude = 1173.51 m
+22:21:51.403 -> Humidity = 21.35 %
+22:21:51.443 -> 
+22:31:51.969 -> Temperature = 25.11 *C
+22:31:51.969 -> Pressure = 880.10 hPa
+22:31:52.009 -> Approx. Altitude = 1172.73 m
+22:31:52.009 -> Humidity = 19.68 %
+22:31:52.009 -> 
+22:41:52.557 -> Temperature = 27.89 *C
+22:41:52.597 -> Pressure = 880.22 hPa
+22:41:52.597 -> Approx. Altitude = 1171.61 m
+22:41:52.597 -> Humidity = 16.39 %
+22:41:52.638 -> 
+22:51:53.169 -> Temperature = 28.53 *C
+22:51:53.210 -> Pressure = 880.03 hPa
+22:51:53.210 -> Approx. Altitude = 1173.34 m
+22:51:53.210 -> Humidity = 15.60 %
+22:51:53.210 -> 
+23:01:53.796 -> Temperature = 25.56 *C
+23:01:53.796 -> Pressure = 880.09 hPa
+23:01:53.796 -> Approx. Altitude = 1172.75 m
+23:01:53.836 -> Humidity = 18.64 %
+23:01:53.836 -> 
+23:11:54.387 -> Temperature = 24.36 *C
+23:11:54.387 -> Pressure = 880.13 hPa
+23:11:54.427 -> Approx. Altitude = 1172.37 m
+23:11:54.427 -> Humidity = 19.92 %
+23:11:54.427 -> 
+23:21:54.985 -> Temperature = 23.96 *C
+23:21:54.985 -> Pressure = 880.29 hPa
+23:21:55.025 -> Approx. Altitude = 1170.92 m
+23:21:55.025 -> Humidity = 20.25 %
+23:21:55.025 -> 
+23:31:55.578 -> Temperature = 23.66 *C
+23:31:55.578 -> Pressure = 880.57 hPa
+23:31:55.619 -> Approx. Altitude = 1168.30 m
+23:31:55.619 -> Humidity = 20.42 %
+23:31:55.619 -> 
+23:41:56.175 -> Temperature = 25.34 *C
+23:41:56.175 -> Pressure = 880.86 hPa
+23:41:56.216 -> Approx. Altitude = 1165.63 m
+23:41:56.216 -> Humidity = 18.39 %
+23:41:56.216 -> 
+23:51:56.783 -> Temperature = 27.70 *C
+23:51:56.783 -> Pressure = 881.13 hPa
+23:51:56.783 -> Approx. Altitude = 1163.12 m
+23:51:56.823 -> Humidity = 15.71 %
+23:51:56.823 -> 
+00:01:57.382 -> Temperature = 28.01 *C
+00:01:57.382 -> Pressure = 881.23 hPa
+00:01:57.422 -> Approx. Altitude = 1162.18 m
+00:01:57.422 -> Humidity = 15.39 %
+00:01:57.422 -> 
+00:11:57.987 -> Temperature = 25.67 *C
+00:11:57.987 -> Pressure = 881.19 hPa
+00:11:58.028 -> Approx. Altitude = 1162.54 m
+00:11:58.028 -> Humidity = 17.74 %
+00:11:58.028 -> 
+00:21:58.599 -> Temperature = 24.41 *C
+00:21:58.599 -> Pressure = 881.18 hPa
+00:21:58.599 -> Approx. Altitude = 1162.62 m
+00:21:58.640 -> Humidity = 19.08 %
+00:21:58.640 -> 
+00:31:59.199 -> Temperature = 24.01 *C
+00:31:59.199 -> Pressure = 881.29 hPa
+00:31:59.199 -> Approx. Altitude = 1161.58 m
+00:31:59.239 -> Humidity = 19.47 %
+00:31:59.239 -> 
+00:41:59.776 -> Temperature = 23.72 *C
+00:41:59.776 -> Pressure = 881.34 hPa
+00:41:59.816 -> Approx. Altitude = 1161.18 m
+00:41:59.816 -> Humidity = 19.64 %
+00:41:59.816 -> 
+00:52:00.362 -> Temperature = 24.58 *C
+00:52:00.402 -> Pressure = 881.21 hPa
+00:52:00.402 -> Approx. Altitude = 1162.36 m
+00:52:00.402 -> Humidity = 18.54 %
+00:52:00.442 -> 
+01:02:00.975 -> Temperature = 26.33 *C
+01:02:00.975 -> Pressure = 881.04 hPa
+01:02:01.015 -> Approx. Altitude = 1163.91 m
+01:02:01.015 -> Humidity = 16.43 %
+01:02:01.015 -> 
+01:12:01.585 -> Temperature = 26.54 *C
+01:12:01.585 -> Pressure = 880.89 hPa
+01:12:01.585 -> Approx. Altitude = 1165.33 m
+01:12:01.626 -> Humidity = 16.10 %
+01:12:01.626 -> 
+01:22:02.195 -> Temperature = 26.47 *C
+01:22:02.195 -> Pressure = 880.93 hPa
+01:22:02.195 -> Approx. Altitude = 1164.97 m
+01:22:02.235 -> Humidity = 16.05 %
+01:22:02.235 -> 
+01:32:02.797 -> Temperature = 26.29 *C
+01:32:02.797 -> Pressure = 880.76 hPa
+01:32:02.797 -> Approx. Altitude = 1166.56 m
+01:32:02.837 -> Humidity = 16.09 %
+01:32:02.837 -> 
+01:42:03.391 -> Temperature = 26.18 *C
+01:42:03.391 -> Pressure = 880.79 hPa
+01:42:03.391 -> Approx. Altitude = 1166.27 m
+01:42:03.431 -> Humidity = 16.12 %
+01:42:03.431 -> 
+01:52:03.985 -> Temperature = 26.03 *C
+01:52:03.985 -> Pressure = 880.69 hPa
+01:52:04.026 -> Approx. Altitude = 1167.18 m
+01:52:04.026 -> Humidity = 16.21 %
+01:52:04.026 -> 
+02:02:04.606 -> Temperature = 25.83 *C
+02:02:04.606 -> Pressure = 880.64 hPa
+02:02:04.606 -> Approx. Altitude = 1167.73 m
+02:02:04.646 -> Humidity = 16.35 %
+02:02:04.646 -> 
+02:12:05.169 -> Temperature = 25.64 *C
+02:12:05.211 -> Pressure = 880.78 hPa
+02:12:05.211 -> Approx. Altitude = 1166.37 m
+02:12:05.211 -> Humidity = 16.39 %
+02:12:05.251 -> 
+02:22:05.771 -> Temperature = 25.54 *C
+02:22:05.811 -> Pressure = 880.90 hPa
+02:22:05.811 -> Approx. Altitude = 1165.25 m
+02:22:05.811 -> Humidity = 16.41 %
+02:22:05.851 -> 
+02:32:06.402 -> Temperature = 25.42 *C
+02:32:06.402 -> Pressure = 880.89 hPa
+02:32:06.402 -> Approx. Altitude = 1165.32 m
+02:32:06.442 -> Humidity = 16.43 %
+02:32:06.442 -> 
+02:42:06.985 -> Temperature = 25.21 *C
+02:42:06.985 -> Pressure = 880.78 hPa
+02:42:07.026 -> Approx. Altitude = 1166.32 m
+02:42:07.026 -> Humidity = 16.54 %
+02:42:07.026 -> 
+02:52:07.566 -> Temperature = 25.11 *C
+02:52:07.607 -> Pressure = 880.87 hPa
+02:52:07.607 -> Approx. Altitude = 1165.51 m
+02:52:07.607 -> Humidity = 16.57 %
+02:52:07.647 -> 
+03:02:08.168 -> Temperature = 24.98 *C
+03:02:08.209 -> Pressure = 881.01 hPa
+03:02:08.209 -> Approx. Altitude = 1164.92 m
+03:02:08.209 -> Humidity = 16.64 %
+03:02:08.249 -> 
+03:12:08.769 -> Temperature = 24.86 *C
+03:12:08.809 -> Pressure = 880.86 hPa
+03:12:08.809 -> Approx. Altitude = 1165.60 m
+03:12:08.809 -> Humidity = 16.72 %
+03:12:08.849 -> 
+03:22:09.379 -> Temperature = 24.79 *C
+03:22:09.379 -> Pressure = 880.89 hPa
+03:22:09.419 -> Approx. Altitude = 1165.37 m
+03:22:09.419 -> Humidity = 16.80 %
+03:22:09.419 -> 
+03:32:10.000 -> Temperature = 24.66 *C
+03:32:10.000 -> Pressure = 880.80 hPa
+03:32:10.000 -> Approx. Altitude = 1166.21 m
+03:32:10.041 -> Humidity = 16.89 %
+03:32:10.041 -> 
+03:42:10.583 -> Temperature = 24.53 *C
+03:42:10.583 -> Pressure = 880.78 hPa
+03:42:10.583 -> Approx. Altitude = 1166.35 m
+03:42:10.624 -> Humidity = 16.97 %
+03:42:10.624 -> 
+03:52:11.169 -> Temperature = 24.43 *C
+03:52:11.169 -> Pressure = 880.89 hPa
+03:52:11.210 -> Approx. Altitude = 1165.30 m
+03:52:11.210 -> Humidity = 17.01 %
+03:52:11.210 -> 
+04:02:11.771 -> Temperature = 24.29 *C
+04:02:11.771 -> Pressure = 880.97 hPa
+04:02:11.811 -> Approx. Altitude = 1164.55 m
+04:02:11.811 -> Humidity = 17.05 %
+04:02:11.811 -> 
+04:12:12.380 -> Temperature = 24.11 *C
+04:12:12.380 -> Pressure = 881.02 hPa
+04:12:12.380 -> Approx. Altitude = 1164.14 m
+04:12:12.420 -> Humidity = 17.13 %
+04:12:12.420 -> 
+04:22:12.939 -> Temperature = 24.05 *C
+04:22:12.979 -> Pressure = 880.99 hPa
+04:22:12.979 -> Approx. Altitude = 1164.38 m
+04:22:12.979 -> Humidity = 17.14 %
+04:22:13.019 -> 
+04:32:13.565 -> Temperature = 23.88 *C
+04:32:13.565 -> Pressure = 881.04 hPa
+04:32:13.565 -> Approx. Altitude = 1163.93 m
+04:32:13.606 -> Humidity = 17.19 %
+04:32:13.606 -> 
+04:42:14.161 -> Temperature = 23.80 *C
+04:42:14.161 -> Pressure = 881.16 hPa
+04:42:14.161 -> Approx. Altitude = 1162.77 m
+04:42:14.202 -> Humidity = 17.22 %
+04:42:14.202 -> 
+04:52:14.717 -> Temperature = 23.72 *C
+04:52:14.757 -> Pressure = 881.23 hPa
+04:52:14.757 -> Approx. Altitude = 1162.20 m
+04:52:14.757 -> Humidity = 17.23 %
+04:52:14.798 -> 
+05:02:15.330 -> Temperature = 23.69 *C
+05:02:15.330 -> Pressure = 881.28 hPa
+05:02:15.371 -> Approx. Altitude = 1161.67 m
+05:02:15.371 -> Humidity = 17.23 %
+05:02:15.371 -> 
+05:12:15.934 -> Temperature = 23.61 *C
+05:12:15.934 -> Pressure = 881.35 hPa
+05:12:15.934 -> Approx. Altitude = 1161.06 m
+05:12:15.974 -> Humidity = 17.27 %
+05:12:15.974 -> 
+05:22:16.503 -> Temperature = 23.52 *C
+05:22:16.543 -> Pressure = 881.32 hPa
+05:22:16.543 -> Approx. Altitude = 1161.28 m
+05:22:16.543 -> Humidity = 17.33 %
+05:22:16.583 -> 
+05:32:17.116 -> Temperature = 23.47 *C
+05:32:17.116 -> Pressure = 881.34 hPa
+05:32:17.116 -> Approx. Altitude = 1161.14 m
+05:32:17.156 -> Humidity = 17.39 %
+05:32:17.156 -> 
+05:42:17.682 -> Temperature = 23.40 *C
+05:42:17.722 -> Pressure = 881.52 hPa
+05:42:17.722 -> Approx. Altitude = 1159.45 m
+05:42:17.722 -> Humidity = 17.46 %
+05:42:17.763 -> 
+05:52:18.300 -> Temperature = 23.31 *C
+05:52:18.300 -> Pressure = 881.67 hPa
+05:52:18.300 -> Approx. Altitude = 1158.01 m
+05:52:18.342 -> Humidity = 17.54 %
+05:52:18.342 -> 
+06:02:18.879 -> Temperature = 23.26 *C
+06:02:18.879 -> Pressure = 881.63 hPa
+06:02:18.919 -> Approx. Altitude = 1158.42 m
+06:02:18.919 -> Humidity = 17.54 %
+06:02:18.919 -> 
+06:12:19.460 -> Temperature = 23.21 *C
+06:12:19.460 -> Pressure = 882.05 hPa
+06:12:19.501 -> Approx. Altitude = 1154.50 m
+06:12:19.501 -> Humidity = 17.58 %
+06:12:19.501 -> 
+06:22:20.059 -> Temperature = 23.15 *C
+06:22:20.059 -> Pressure = 882.11 hPa
+06:22:20.100 -> Approx. Altitude = 1153.99 m
+06:22:20.100 -> Humidity = 17.59 %
+06:22:20.100 -> 
+06:32:20.660 -> Temperature = 23.09 *C
+06:32:20.660 -> Pressure = 882.23 hPa
+06:32:20.660 -> Approx. Altitude = 1152.83 m
+06:32:20.700 -> Humidity = 17.59 %
+06:32:20.700 -> 
+06:42:21.227 -> Temperature = 23.03 *C
+06:42:21.227 -> Pressure = 882.31 hPa
+06:42:21.268 -> Approx. Altitude = 1152.09 m
+06:42:21.268 -> Humidity = 17.60 %
+06:42:21.268 -> 
+06:52:21.831 -> Temperature = 22.96 *C
+06:52:21.831 -> Pressure = 882.43 hPa
+06:52:21.831 -> Approx. Altitude = 1151.00 m
+06:52:21.871 -> Humidity = 17.66 %
+06:52:21.871 -> 
+07:02:22.410 -> Temperature = 22.93 *C
+07:02:22.410 -> Pressure = 882.51 hPa
+07:02:22.450 -> Approx. Altitude = 1150.19 m
+07:02:22.450 -> Humidity = 17.71 %
+07:02:22.450 -> 
+07:12:23.006 -> Temperature = 22.89 *C
+07:12:23.006 -> Pressure = 882.75 hPa
+07:12:23.006 -> Approx. Altitude = 1147.97 m
+07:12:23.046 -> Humidity = 17.71 %
+07:12:23.046 -> 
+07:22:23.582 -> Temperature = 22.82 *C
+07:22:23.582 -> Pressure = 882.79 hPa
+07:22:23.622 -> Approx. Altitude = 1147.58 m
+07:22:23.622 -> Humidity = 17.78 %
+07:22:23.622 -> 
+07:32:24.150 -> Temperature = 23.22 *C
+07:32:24.190 -> Pressure = 882.89 hPa
+07:32:24.190 -> Approx. Altitude = 1146.68 m
+07:32:24.190 -> Humidity = 17.37 %
+07:32:24.230 -> 
+07:42:24.740 -> Temperature = 24.20 *C
+07:42:24.780 -> Pressure = 882.72 hPa
+07:42:24.780 -> Approx. Altitude = 1148.30 m
+07:42:24.780 -> Humidity = 16.34 %
+07:42:24.821 -> 
+07:52:25.362 -> Temperature = 25.26 *C
+07:52:25.362 -> Pressure = 882.97 hPa
+07:52:25.362 -> Approx. Altitude = 1145.91 m
+07:52:25.403 -> Humidity = 15.22 %
+07:52:25.403 -> 
+08:02:25.962 -> Temperature = 26.36 *C
+08:02:25.962 -> Pressure = 883.07 hPa
+08:02:25.962 -> Approx. Altitude = 1145.03 m
+08:02:26.003 -> Humidity = 14.20 %
+08:02:26.003 -> 
+08:12:26.527 -> Temperature = 27.33 *C
+08:12:26.568 -> Pressure = 883.13 hPa
+08:12:26.568 -> Approx. Altitude = 1144.47 m
+08:12:26.568 -> Humidity = 13.33 %
+08:12:26.608 -> 
+08:22:27.158 -> Temperature = 28.25 *C
+08:22:27.158 -> Pressure = 883.20 hPa
+08:22:27.158 -> Approx. Altitude = 1143.77 m
+08:22:27.198 -> Humidity = 12.57 %
+08:22:27.198 -> 
+08:32:27.747 -> Temperature = 26.68 *C
+08:32:27.787 -> Pressure = 883.28 hPa
+08:32:27.787 -> Approx. Altitude = 1143.07 m
+08:32:27.787 -> Humidity = 13.87 %
+08:32:27.787 -> 
+08:42:28.361 -> Temperature = 24.38 *C
+08:42:28.361 -> Pressure = 883.38 hPa
+08:42:28.402 -> Approx. Altitude = 1142.18 m
+08:42:28.402 -> Humidity = 16.12 %
+08:42:28.402 -> 
+08:52:28.951 -> Temperature = 23.70 *C
+08:52:28.951 -> Pressure = 883.39 hPa
+08:52:28.992 -> Approx. Altitude = 1142.01 m
+08:52:28.992 -> Humidity = 16.83 %
+08:52:28.992 -> 
+09:02:29.539 -> Temperature = 23.46 *C
+09:02:29.539 -> Pressure = 883.45 hPa
+09:02:29.580 -> Approx. Altitude = 1141.44 m
+09:02:29.580 -> Humidity = 17.08 %
+09:02:29.580 -> 
+09:12:30.119 -> Temperature = 27.62 *C
+09:12:30.160 -> Pressure = 883.57 hPa
+09:12:30.160 -> Approx. Altitude = 1140.35 m
+09:12:30.160 -> Humidity = 13.21 %
+09:12:30.200 -> 
+09:22:30.737 -> Temperature = 28.87 *C
+09:22:30.737 -> Pressure = 883.67 hPa
+09:22:30.777 -> Approx. Altitude = 1139.46 m
+09:22:30.777 -> Humidity = 12.18 %
+09:22:30.777 -> 
+09:32:31.364 -> Temperature = 25.64 *C
+09:32:31.364 -> Pressure = 883.63 hPa
+09:32:31.364 -> Approx. Altitude = 1139.83 m
+09:32:31.405 -> Humidity = 15.02 %
+09:32:31.405 -> 
+09:42:31.966 -> Temperature = 24.34 *C
+09:42:31.966 -> Pressure = 883.68 hPa
+09:42:31.966 -> Approx. Altitude = 1139.32 m
+09:42:32.007 -> Humidity = 16.35 %
+09:42:32.007 -> 
+09:52:32.533 -> Temperature = 23.80 *C
+09:52:32.574 -> Pressure = 883.73 hPa
+09:52:32.574 -> Approx. Altitude = 1138.84 m
+09:52:32.574 -> Humidity = 16.80 %
+09:52:32.574 -> 
+10:02:33.145 -> Temperature = 23.58 *C
+10:02:33.145 -> Pressure = 883.97 hPa
+10:02:33.145 -> Approx. Altitude = 1136.63 m
+10:02:33.185 -> Humidity = 17.00 %
+10:02:33.185 -> 
+10:12:33.728 -> Temperature = 26.41 *C
+10:12:33.728 -> Pressure = 884.08 hPa
+10:12:33.768 -> Approx. Altitude = 1135.65 m
+10:12:33.768 -> Humidity = 14.31 %
+10:12:33.768 -> 
+10:22:34.325 -> Temperature = 28.36 *C
+10:22:34.365 -> Pressure = 884.17 hPa
+10:22:34.365 -> Approx. Altitude = 1134.80 m
+10:22:34.365 -> Humidity = 12.57 %
+10:22:34.406 -> 
+10:32:34.925 -> Temperature = 27.10 *C
+10:32:34.965 -> Pressure = 884.30 hPa
+10:32:34.965 -> Approx. Altitude = 1133.60 m
+10:32:34.965 -> Humidity = 13.63 %
+10:32:35.006 -> 
+10:42:35.532 -> Temperature = 24.83 *C
+10:42:35.573 -> Pressure = 884.22 hPa
+10:42:35.573 -> Approx. Altitude = 1134.33 m
+10:42:35.573 -> Humidity = 15.89 %
+10:42:35.613 -> 
+10:52:36.161 -> Temperature = 24.26 *C
+10:52:36.161 -> Pressure = 884.34 hPa
+10:52:36.161 -> Approx. Altitude = 1133.22 m
+10:52:36.161 -> Humidity = 16.59 %
+10:52:36.201 -> 
+11:02:36.745 -> Temperature = 23.94 *C
+11:02:36.745 -> Pressure = 884.30 hPa
+11:02:36.745 -> Approx. Altitude = 1133.61 m
+11:02:36.785 -> Humidity = 16.90 %
+11:02:36.785 -> 
+11:12:37.322 -> Temperature = 23.78 *C
+11:12:37.322 -> Pressure = 884.40 hPa
+11:12:37.362 -> Approx. Altitude = 1132.62 m
+11:12:37.362 -> Humidity = 17.11 %
+11:12:37.362 -> 
+11:22:37.926 -> Temperature = 25.63 *C
+11:22:37.926 -> Pressure = 884.49 hPa
+11:22:37.966 -> Approx. Altitude = 1131.83 m
+11:22:37.966 -> Humidity = 15.41 %
+11:22:37.966 -> 
+11:32:38.508 -> Temperature = 28.64 *C
+11:32:38.548 -> Pressure = 884.58 hPa
+11:32:38.548 -> Approx. Altitude = 1130.97 m
+11:32:38.548 -> Humidity = 12.67 %
+11:32:38.589 -> 
+11:42:39.123 -> Temperature = 27.85 *C
+11:42:39.164 -> Pressure = 884.51 hPa
+11:42:39.164 -> Approx. Altitude = 1131.64 m
+11:42:39.164 -> Humidity = 13.31 %
+11:42:39.164 -> 
+11:52:39.721 -> Temperature = 25.18 *C
+11:52:39.761 -> Pressure = 884.44 hPa
+11:52:39.761 -> Approx. Altitude = 1132.28 m
+11:52:39.761 -> Humidity = 15.89 %
+11:52:39.801 -> 
+12:02:40.337 -> Temperature = 24.53 *C
+12:02:40.337 -> Pressure = 884.52 hPa
+12:02:40.377 -> Approx. Altitude = 1131.55 m
+12:02:40.377 -> Humidity = 16.59 %
+12:02:40.377 -> 
+12:12:40.946 -> Temperature = 24.20 *C
+12:12:40.946 -> Pressure = 884.50 hPa
+12:12:40.946 -> Approx. Altitude = 1131.68 m
+12:12:40.987 -> Humidity = 16.93 %
+12:12:40.987 -> 
+12:22:41.530 -> Temperature = 24.02 *C
+12:22:41.530 -> Pressure = 884.44 hPa
+12:22:41.571 -> Approx. Altitude = 1132.24 m
+12:22:41.571 -> Humidity = 17.12 %
+12:22:41.571 -> 
+12:32:42.110 -> Temperature = 23.85 *C
+12:32:42.151 -> Pressure = 884.44 hPa
+12:32:42.151 -> Approx. Altitude = 1132.24 m
+12:32:42.151 -> Humidity = 17.31 %
+12:32:42.151 -> 
+12:42:42.716 -> Temperature = 25.94 *C
+12:42:42.716 -> Pressure = 884.46 hPa
+12:42:42.756 -> Approx. Altitude = 1132.13 m
+12:42:42.756 -> Humidity = 15.40 %
+12:42:42.756 -> 
+12:52:43.327 -> Temperature = 28.48 *C
+12:52:43.327 -> Pressure = 884.53 hPa
+12:52:43.327 -> Approx. Altitude = 1131.46 m
+12:52:43.367 -> Humidity = 12.98 %
+12:52:43.367 -> 
+13:02:43.929 -> Temperature = 27.38 *C
+13:02:43.929 -> Pressure = 884.44 hPa
+13:02:43.929 -> Approx. Altitude = 1132.29 m
+13:02:43.969 -> Humidity = 13.89 %
+13:02:43.969 -> 
+13:12:44.521 -> Temperature = 25.16 *C
+13:12:44.521 -> Pressure = 884.47 hPa
+13:12:44.562 -> Approx. Altitude = 1131.97 m
+13:12:44.562 -> Humidity = 16.08 %
+13:12:44.562 -> 
+13:22:45.127 -> Temperature = 24.57 *C
+13:22:45.127 -> Pressure = 884.47 hPa
+13:22:45.168 -> Approx. Altitude = 1132.04 m
+13:22:45.168 -> Humidity = 16.72 %
+13:22:45.168 -> 
+13:32:45.707 -> Temperature = 24.25 *C
+13:32:45.748 -> Pressure = 884.41 hPa
+13:32:45.748 -> Approx. Altitude = 1132.56 m
+13:32:45.748 -> Humidity = 17.02 %
+13:32:45.788 -> 
+13:42:46.327 -> Temperature = 24.07 *C
+13:42:46.327 -> Pressure = 884.34 hPa
+13:42:46.327 -> Approx. Altitude = 1133.17 m
+13:42:46.367 -> Humidity = 17.23 %
+13:42:46.367 -> 
+13:52:46.892 -> Temperature = 23.98 *C
+13:52:46.932 -> Pressure = 884.31 hPa
+13:52:46.932 -> Approx. Altitude = 1133.53 m
+13:52:46.932 -> Humidity = 17.33 %
+13:52:46.973 -> 
+14:02:47.495 -> Temperature = 23.87 *C
+14:02:47.535 -> Pressure = 884.28 hPa
+14:02:47.535 -> Approx. Altitude = 1133.76 m
+14:02:47.535 -> Humidity = 17.45 %
+14:02:47.535 -> 
+14:12:48.097 -> Temperature = 27.76 *C
+14:12:48.097 -> Pressure = 884.21 hPa
+14:12:48.138 -> Approx. Altitude = 1134.43 m
+14:12:48.138 -> Humidity = 13.74 %
+14:12:48.138 -> 
+14:22:48.713 -> Temperature = 29.09 *C
+14:22:48.713 -> Pressure = 884.12 hPa
+14:22:48.713 -> Approx. Altitude = 1135.26 m
+14:22:48.753 -> Humidity = 12.64 %
+14:22:48.753 -> 
+14:32:49.327 -> Temperature = 25.77 *C
+14:32:49.327 -> Pressure = 884.02 hPa
+14:32:49.327 -> Approx. Altitude = 1136.23 m
+14:32:49.367 -> Humidity = 15.61 %
+14:32:49.367 -> 
+14:42:49.895 -> Temperature = 24.81 *C
+14:42:49.935 -> Pressure = 883.89 hPa
+14:42:49.935 -> Approx. Altitude = 1137.38 m
+14:42:49.935 -> Humidity = 16.61 %
+14:42:49.976 -> 
+14:52:50.520 -> Temperature = 24.41 *C
+14:52:50.520 -> Pressure = 883.89 hPa
+14:52:50.520 -> Approx. Altitude = 1137.41 m
+14:52:50.561 -> Humidity = 17.04 %
+14:52:50.561 -> 
+15:02:51.100 -> Temperature = 24.26 *C
+15:02:51.100 -> Pressure = 883.86 hPa
+15:02:51.141 -> Approx. Altitude = 1137.63 m
+15:02:51.141 -> Humidity = 17.23 %
+15:02:51.141 -> 
+15:12:51.690 -> Temperature = 24.06 *C
+15:12:51.731 -> Pressure = 883.86 hPa
+15:12:51.731 -> Approx. Altitude = 1137.65 m
+15:12:51.731 -> Humidity = 17.40 %
+15:12:51.731 -> 
